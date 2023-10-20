@@ -1,0 +1,9 @@
+# Algorithm-to-count-number-of-vowels-in-a-sentence-
+Step 1:Start
+Step 2:Read a number and assign it as S
+Step 3:Assign v as a list of vowels
+Step 4:Count <--0
+Step 5:Check each letter in S till the          last letter
+Step 6:If letter in v add count +1
+Step 7: Display Count 
+Step 8:Stop
